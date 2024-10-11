@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Talks"
 permalink: /teaching/
 author_profile: true
 ---
@@ -10,3 +10,11 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Talks
+======
+
+  <ul>
+    {% for post in site.talks reversed %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
