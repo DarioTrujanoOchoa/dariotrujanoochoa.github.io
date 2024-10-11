@@ -40,11 +40,10 @@ Education
 Talks
 ======
 
-  <ul>{% for post in site.talks %}
-
-    {% include archive-single-talk-cv.html %}
-
-  {% endfor %}</ul>
+  <ul>
+    {% for post in site.talks eversed %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
   
 Teaching
 ======
@@ -68,10 +67,10 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    
-    {% include archive-single-cv.html %}
-    
-  {% endfor %}</ul>
+  <ul>
+    {% for post in site.publications reversed %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
 
 <embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
