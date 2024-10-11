@@ -18,7 +18,7 @@ Published Papers
 Working Papers
 ======
   <ul>
-    {% for post in site.working-papers reversed %}
+    {% for post in site.portfolio reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}
   </ul>
