@@ -1,5 +1,5 @@
 ---
-title: "Advancement to Candidacy"
+title: "Biased Beliefs with Heterogeneous Priors"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-06-01-Advancement-3
@@ -19,3 +19,5 @@ willingness to pay for a signal realization when they implement their strategy
 rather than the strategy of another participant. This results contribute to the
 literature on preferences for decision rights and delegation, as well as strategic
 uncertainty.
+
+I presented this paper for my [advancement to candidacy](https://www.econ.ucsb.edu/events/all/2023/advancement-candidacy-presentation-biased-beliefs-heterogeneous-priors-dario).
