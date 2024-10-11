@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
+<embed src="https://dariotrujanoochoa.github.io/files/CV_short_DarioTrujanoOchoa.pdf" type="application/pdf" width="100%" />
 
 Education
 ======
