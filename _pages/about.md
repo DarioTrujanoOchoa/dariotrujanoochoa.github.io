@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am in the last year of my PhD in Economics at UCSB, where I have developed research in Experimental and Behavioral Economics. 
+I am in the last year of my PhD in Economics at the University of California Santa Barbara, where I have developed research in Experimental and Behavioral Economics. 
 My research is centered on how individuals process information, form beliefs, and make decisions under uncertainty, with a focus on misinformation and risk preferences. 
 I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
 
@@ -25,7 +25,7 @@ Where I am from?
 
 I was born in Mexico City and studied at UNAM, where I got a Bachelor's degree in Psychology and studied a Specialty in Statistics.
 There, I became interested in experimental methods and behavior models. With this background, I naturally moved to Economics and decided to study for my Master's at CIDE, where I was exposed to more rigorous mathematical analysis. 
-I worked after graduation, but I had already decided to study Economics in the US. Because of this, I applied for the Fulbright-García Robles scholarship. 
+I worked after graduation, but I had already decided to study Economics in the US. Because of this, I applied for the Fulbright-García Robles scholarship and started my PhD at UCSB. 
 
 
 Where am I going next?
