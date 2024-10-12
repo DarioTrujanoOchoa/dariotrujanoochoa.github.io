@@ -15,3 +15,6 @@ willingness to pay for a signal realization when they implement their strategy
 rather than the strategy of another participant. These results contribute to the
 literature on preferences for decision rights and delegation, as well as strategic
 uncertainty.
+
+
+<embed src="https://dariotrujanoochoa.github.io/files/Higher_Order_Willingness_to_Pay.pdf" type="application/pdf" width="100%" />
