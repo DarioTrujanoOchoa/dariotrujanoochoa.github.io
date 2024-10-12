@@ -1,5 +1,5 @@
 ---
-title: "Demand for Verification and Feedback: Experimental Evidence"
+title: "The Effect of Feedback on News Verification Demand: Experimental Evidence"
 excerpt: "Effects of feedback on the willingness to pay to verify real headlines."
 collection: portfolio
 ---
