@@ -1,14 +1,14 @@
 ---
-title: "Instructor Experience"
+title: "Instructor"
 collection: teaching
-type: "Courses where I have been the instructor"
+type: "Courses where I have experience as the instructor."
 permalink: /teaching/2021-fall-Instructor
 venue: "UCSB, UNAM"
-date: 2021-09-01
+date: 
 location: "USA, Mexico"
 ---
 
-Follow the link to see the courses I have been the instructor for. 
+List of courses where I have been the instructor
 
 ### UCSB
 
