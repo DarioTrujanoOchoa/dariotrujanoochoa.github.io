@@ -4,7 +4,7 @@ collection: teaching
 type: "Coordinate the activities of Instructors, Teaching Assistants, Undergrad Helpers, and Students"
 permalink: /teaching/2021-fall-HeadTA
 venue: "Department of Economics"
-date: 
+date: 2024-01-01
 location: "UCSB"
 ---
 
