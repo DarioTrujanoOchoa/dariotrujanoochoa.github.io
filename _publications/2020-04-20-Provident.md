@@ -1,7 +1,7 @@
 ---
 title: "The role of cognitive and personality characteristics in timely microcredit repayment: Evidence from a survey conducted by Provident, Mexico"
 collection: publications
-permalink: /publication/2021-04-20-CitizenCandidate
+permalink: /publication/2020-04-10-Provident
 excerpt: 'We present results of a survey measuring cognitive ability and repayment levels.'
 date: 2020-04-10
 venue: 'Ensayos. Revista de economía'
