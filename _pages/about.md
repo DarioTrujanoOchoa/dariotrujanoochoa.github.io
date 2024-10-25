@@ -12,13 +12,8 @@ I am in the last year of my [PhD in Economics at the University of California Sa
 My research is centered on how individuals process information, form beliefs, and make decisions under uncertainty, with a focus on misinformation and risk preferences. 
 I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
 
-Recently, I coauthored the paper "Learning Your Own Risk Preferences," published in the Journal of Risk and Uncertainty, where I investigate how individuals reassess their own risk preferences over time and through feedback.
-I published this paper with Nir Chemaya, an excellent researcher from the same cohort, and Gary Charness, who unexpectedly left us. 
-During the PhD, I kept working on papers I started in Mexico that were finally published. 
-Finally, I designed, programmed, and implemented my own experiments, where I studied higher-order belief updating the value of information, and the willingness to pay to verify in the context of verification. 
-
 I am currently in the Job Market as I near the completion of my Ph.D. in 2025. I’m excited to continue my work in economic research, focusing on information economics and decision theory.
-My JMP explores the feedback's role in improving decision-making accuracy, especially in combating misinformation. 
+My JMP explores the feedback's effect on the demand for verification in the context of misinformation. The results aim to help design more effective interventions to fight misinformation.
 
 Where I am from?
 ======
