@@ -1,7 +1,7 @@
 ---
 title: "Instructor"
 collection: teaching
-type: "Courses where I have experience as the instructor."
+type: "Courses where I have experience as the instructor"
 permalink: /teaching/2021-fall-Instructor
 venue: "UCSB, UNAM"
 date: 2024-05-01
