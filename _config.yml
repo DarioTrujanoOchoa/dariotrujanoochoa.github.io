@@ -83,7 +83,9 @@ author:
   name             : "Dario Trujano-Ochoa"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at UCSB. Experimental, and Behavioral Economist"
-  location         : "UCSB Department of Economics. North Hall 3047"
+  location         : |
+    Department of Economics. 
+    North Hall 3047
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ"
