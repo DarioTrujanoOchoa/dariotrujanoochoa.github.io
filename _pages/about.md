@@ -15,19 +15,19 @@ I combine experimental methods and theoretical modeling to explore these areas, 
 I am currently in the Job Market as I near the completion of my Ph.D. in 2025. I’m excited to continue my work in economic research, focusing on information economics and decision theory.
 My JMP explores the feedback's effect on the demand for verification in the context of misinformation. The results aim to help design more effective interventions to fight misinformation.
 
-Where I am from?
+Where am I from?
 ======
 
-I was born in Mexico City and studied at UNAM, where I got a Bachelor's degree in Psychology and studied a Specialty in Statistics.
-There, I became interested in experimental methods and behavior models. With this background, I naturally moved to Economics and decided to study for my Master's at CIDE, where I was exposed to more rigorous mathematical analysis. 
-I worked after graduation, but I had already decided to study Economics in the US. Because of this, I applied for the Fulbright-García Robles scholarship and started my PhD at UCSB. 
+I was born and raised in Mexico City and studied at UNAM, where I got a Bachelor's degree in Psychology and postgraduate training in Statistics. 
+There, I became interested in experimental methods and behavior models. With this background, I naturally moved to Economics and decided to complete my Master's in Economics at CIDE, where I was exposed to more rigorous mathematical analysis. 
+After graduation, I worked at [IFT](https://www.ift.org.mx/) and [ASBA](https://asbasupervision.org/) and later received the Fulbright-García Robles scholarship to begin my PhD at UCSB in 2019. 
 
 
 Where am I going next?
 ======
 
 After graduation, I expect to work in academia, explore the topics that intrigued me during the PhD, and collaborate with other researchers. 
-I prefer positions in the US, Canada, Europe, and Mexico. Still, the most important thing is to have a place where I can continue working on the topics I am interested in and increase collaboration networks. 
+The most important factor is to have a place where I can continue working on the topics I am interested in and increase collaboration networks. 
 
 
 
