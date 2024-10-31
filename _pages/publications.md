@@ -24,9 +24,9 @@ author_profile: true
     {% endfor %}
   </ul>
 
-<h1>
+<h2>
    Work in Progress
-</h1>
+</h2>
  
  <ul>
  	<li>Big little lies. (wth Pablo Ignacio Soto)</li>
