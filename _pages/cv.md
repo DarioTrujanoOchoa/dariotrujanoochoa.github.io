@@ -18,22 +18,6 @@ Education
 * M.S. in Economics, CIDE, 2017
 * B.S. in Psychology, UNAM, 2013
 
-Publications
-======
-  <ul>
-    {% for post in site.publications reversed %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
-  </ul>
-
-Teaching
-======
-<ul>
-    {% for post in site.teaching %}
-        {% include archive-single-cv.html %}
-    {% endfor %}
-</ul>
-
 Skills
 ======
 * English: Fluent
