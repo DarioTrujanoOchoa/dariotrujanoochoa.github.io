@@ -27,8 +27,8 @@ author_profile: true
  ## Work in Progress
  
  <ul>
- 	<li>Big little lies. (wth Pablo Ignacio Soto)</li>
- 	<li>Overconfidence and Fact-Cheking in the Philippines. (wth Jose Gloria)</li>
+ 	<li>Big little lies. (with Pablo Ignacio Soto)</li>
+ 	<li>Overconfidence and Fact-Cheking in the Philippines. (with Jose Gloria)</li>
  </ul>
  
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=T-xX3w0AAAAJ&hl=en) profile.
