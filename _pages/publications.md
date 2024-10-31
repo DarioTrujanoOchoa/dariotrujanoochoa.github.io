@@ -23,8 +23,10 @@ author_profile: true
       {% include archive-single-cv.html %}
     {% endfor %}
   </ul>
-  
- ## Work in Progress
+
+<h3>
+   Work in Progress
+</h3>
  
  <ul>
  	<li>Big little lies. (with Pablo Ignacio Soto)</li>
