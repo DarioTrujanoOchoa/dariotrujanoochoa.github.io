@@ -29,8 +29,8 @@ author_profile: true
 </h3>
  
  <ul>
- 	<li>Big little lies. (with [Pablo Soto-Mota](https://www.pablosotomota.com/))</li>
- 	<li>Overconfidence and Fact-Cheking in the Philippines. (with [Jose Gloria](https://sites.google.com/view/jose-gloria))</li>
+ 	<li>Big little lies. (with <a href="https://www.example.com](https://www.pablosotomota.com/">Pablo Soto-Mota</a>)</li>
+ 	<li>Overconfidence and Fact-Cheking in the Philippines. (with <a href="https://sites.google.com/view/jose-gloria">Jose Gloria</a>)</li>
  </ul>
  
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=T-xX3w0AAAAJ&hl=en) profile.
