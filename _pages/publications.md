@@ -29,7 +29,7 @@ author_profile: true
 </h3>
  
  <ul>
- 	<li>Big little lies. (with <a href="https://www.example.com](https://www.pablosotomota.com/">Pablo Soto-Mota</a>)</li>
+ 	<li>Big little lies. (with <a href="https://www.pablosotomota.com/">Pablo Soto-Mota</a>)</li>
  	<li>Overconfidence and Fact-Cheking in the Philippines. (with <a href="https://sites.google.com/view/jose-gloria">Jose Gloria</a>)</li>
  </ul>
  
