@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Feedback on News Verification Demand: Experimental Evidence (JMP)" 
+title: "The Effect of Feedback on News-Verification Demand: Experimental Evidence (JMP)" 
 excerpt: "Effects of feedback on the willingness to pay to verify real headlines."
 collection: portfolio
 ---

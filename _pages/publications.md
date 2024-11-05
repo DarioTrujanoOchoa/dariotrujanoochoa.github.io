@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Job Market Paper
+
+ <ul>
+    <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">The Effect of Feedback on News-Verification Demand: Experimental Evidence</a>
+  </ul>
+
+
 ## Working Papers
 
   <ul>

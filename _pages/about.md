@@ -13,7 +13,7 @@ My research is centered on how individuals process information, form beliefs, an
 I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
 
 I am currently in the Job Market as I near the completion of my Ph.D. in 2025. I’m excited to continue my work in economic research, focusing on information economics and decision theory.
-My JMP explores the feedback's effect on the demand for verification in the context of misinformation. The results aim to help design more effective interventions to fight misinformation.
+My [Job Market Paper](https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/) explores the feedback's effect on the demand for verification in the context of misinformation. The results aim to help design more effective interventions to fight misinformation.
 
 Where am I from?
 ======
