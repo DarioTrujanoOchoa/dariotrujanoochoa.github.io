@@ -10,18 +10,25 @@ author_profile: true
 ## Job Market Paper
 
  <ul>
-    <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">The Effect of Feedback on News-Verification Demand: Experimental Evidence</a>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">The Effect of Feedback on News-Verification Demand: Experimental Evidence</a></li>
   </ul>
 
 
 ## Working Papers
 
+ <ul>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-replication-3/">Do Others Learn like Me? Higher Order Willingness to Pay for Information</a></li>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-higerOrderWTP-1/">Replication Report of“Belief Elicitation and Behavioral Incentive Compatibility” by Danz, Vesterlund, and Wilson (2022)</a></li>
+</a></li>
+  </ul>
+
+<!-- 
   <ul>
     {% for post in site.portfolio reversed %}
       {% include archive-single-cv.html %}
     {% endfor %}
   </ul>
-  
+-->
 
 ## Published Papers
 
