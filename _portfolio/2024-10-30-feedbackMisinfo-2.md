@@ -4,9 +4,8 @@ excerpt: "Effects of feedback on the willingness to pay to verify real headlines
 collection: portfolio
 ---
 
-This study explores the decision-making processes involved in classifying information in the context of headlines that may be accurate or false. 
-The experiment investigates how different types of feedback influence the willingness to pay for headline verification. 
-Three treatment conditions are examined: no feedback, feedback on own performance, and feedback on group classification performance.
-The findings provide empirical insights into the dynamics of information spread, confidence, and the value of information. These have implications for understanding and mitigating the effects of misinformation in political contexts.
+This study is the first to elicit the value individuals place on verifying real headlines, focusing on the role of feedback in shaping verification behavior and confidence. In a lab experiment, 184 participants classified headlines as accurate or fake, reporting their willingness to pay (WTP) for a perfect signal under three feedback conditions: control, individual, and group. Results show that explicit feedback on others’ accuracy reduces the perceived value of verification, potentially discouraging fact-checking. The findings highlight how feedback influences verification demand. By addressing gaps in the existing literature and focusing on Mexico, this study provides novel insights into the design of interventions to combat misinformation.
+
+<a href="https://dariotrujanoochoa.github.io/files/feedback_misinfo.pdf">Download File</a>
 
 <embed src="https://dariotrujanoochoa.github.io/files/feedback_misinfo.pdf" type="application/pdf" width="100%" />
