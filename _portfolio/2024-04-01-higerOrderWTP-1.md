@@ -1,5 +1,5 @@
 ---
-title: "Do we know the value of information? Heterogeneous effects in demand for information"
+title: "Do we know the value of information? Heterogeneous effects in the demand for information"
 excerpt: "Non-Bayesian agents and their willingness to pay for information under different contexts."
 collection: portfolio
 ---

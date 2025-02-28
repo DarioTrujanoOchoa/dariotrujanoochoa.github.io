@@ -17,7 +17,7 @@ author_profile: true
 ## Working Papers
 
  <ul>
- 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-higerOrderWTP-1/">Do Others Learn like Me? Higher Order Willingness to Pay for Information</a></li>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-higerOrderWTP-1/">Do we know the value of information? Heterogeneous effects in the demand for information</a></li>
  	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-replication-3/">Replication Report of“Belief Elicitation and Behavioral Incentive Compatibility” by Danz, Vesterlund, and Wilson (2022)
 </a></li>
   </ul>
