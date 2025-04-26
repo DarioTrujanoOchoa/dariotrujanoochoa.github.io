@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  25 OCT 2024 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  26 APR 2025 01:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,16 +881,7 @@ Underfull \hbox (badness 2376) in paragraph at lines 24--24
  , \OT1/ppl/m/sl/12 (+20) In-sti-tuto de In-ves-ti-ga-ciones en
  []
 
-) (./publications.tex)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[1
+) (./publications.tex) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2023
@@ -905,43 +896,17 @@ Underfull \hbox (badness 4805) in paragraph at lines 81--81
 pl/m/n/12 (+20) , []$\OT1/cmtt/m/sl/12 https : / / www .
  []
 
-(./grants_honors.tex) (./RAships.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[2]) (./work.tex) (./service.tex) (./teaching_long.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]) (./languages.tex)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4] (./CV_eng.aux)
+(./grants_honors.tex) (./RAships.tex [2]) (./work.tex) (./service.tex)
+(./teaching_long.tex [3]) (./languages.tex) [4] (./CV_eng.aux)
 Package rerunfilecheck Info: File `CV_eng.out' has not changed.
-(rerunfilecheck)             Checksum: B8EAB441056104EF7DAE3CD2D2AA7291;1628.
+(rerunfilecheck)             Checksum: BFB8FA9397AF10D7E0BAD57155459FEF;1510.
  ) 
 Here is how much of TeX's memory you used:
- 26287 strings out of 476025
- 506112 string characters out of 5790016
+ 26282 strings out of 476025
+ 506061 string characters out of 5790016
  1877388 words of memory out of 5000000
- 46025 multiletter control sequences out of 15000+600000
- 543729 words of font info for 234 fonts, out of 8000000 for 9000
+ 46024 multiletter control sequences out of 15000+600000
+ 543653 words of font info for 232 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,122p,1003b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
@@ -951,10 +916,10 @@ ype1/public/amsfonts/cm/cmsltt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/
 type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/u
 rw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/pala
 tino/uplr8a.pfb>
-Output written on CV_eng.pdf (4 pages, 136547 bytes).
+Output written on CV_eng.pdf (4 pages, 135779 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 42605 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 42597 words of extra memory for PDF output out of 42996 (max. 10000000)
 
