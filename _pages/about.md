@@ -27,7 +27,7 @@ After graduation, I worked at [IFT](https://www.ift.org.mx/) and [ASBA](https://
 Where am I going next?
 ======
 
-I will continue researching as a postdoc, completing the research I haven't published and starting new projects. I expect to be back in the market in 2026.
+I will continue researching as a postdoc, completing the research I haven't published and starting new projects. I expect to be back in the job market to start in 2027.
 
 
 
