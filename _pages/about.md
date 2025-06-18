@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Texas A & M University. 
+I am a postdoctoral researcher at [Texas A & M University](https://agrilifepeople.tamu.edu/people/view/38860). 
 I obtained my [PhD in Economics at the University of California Santa Barbara](https://econ.ucsb.edu/people/students/dario-trujano-ochoa), where I developed research in Experimental and Behavioral Economics. 
 My research is centered on how individuals process information, form beliefs, and make decisions under uncertainty, focusing on misinformation and risk preferences. 
 I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
