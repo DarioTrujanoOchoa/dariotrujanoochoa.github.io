@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in Economics, UCSB, 2025 (expected)
+* Ph.D. student in Economics, UCSB, 2025
 * M.S. in Economics, CIDE, 2017
 * B.S. in Psychology, UNAM, 2013
 

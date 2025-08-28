@@ -1,10 +1,10 @@
-\documentclass[12pt,a4paper]{moderncv}
+\documentclass[10.5pt,a4paper]{moderncv}
 % font
 \usepackage{mathpazo}
 \renewcommand{\sfdefault}{\rmdefault}
 
 %% ModernCV themes
-\moderncvstyle{classic}
+\moderncvstyle{banking}
 \moderncvcolor{black}
 \renewcommand{\familydefault}{\sfdefault}
 \nopagenumbers{}
@@ -18,23 +18,25 @@
 % For headers and footers
 \usepackage{fancyhdr} 
 
+
+% \title{Curriculum Vitae} \renewcommand*{\titlefont}{\fontsize{30}{40}\mdseries\upshape}
+
 %% Personal data
 % \photo[64pt][0.4pt]{Dario_Trujano_Ochoa_005web}  
 \firstname{Dario}
 \familyname{Trujano-Ochoa}
-\renewcommand*{\namefont}{\fontsize{26}{40}\mdseries\upshape}
+\renewcommand*{\namefont}{\fontsize{20}{10}\mdseries\upshape}
 
-%\title{Curriculum Vitae} \renewcommand*{\titlefont}{\fontsize{30}{40}\mdseries\upshape}
 %\address{Oriente 243 C, No. 290}{08500 México, D.F.}
 %\phone{59 14 05 73}
-\email{dario.trujanoochoa@ag.tamu.edu}
+\email{dario.trujanoochoa@tamu.edu}
 \homepage{dariotrujanoochoa.github.io/}
-\address{Centeq Building, Room 232}{Texas A\&M}{College Station, TX 77843-2124}
+\address{Human Behavior Lab}{Texas A\&M University}{Centeq Building, Room 232, College Station, TX 77843-2124}
 %\address{6676 Sueno Rd.}{93117 Goleta CA}
 %\mobile{(+1) 956 996 3526}
-%\extrainfo{additional information}
+%\extrainfo{Updated August 2025}
 %\photo[64pt][0.4pt]{picture}
-%\quote{"People predict by making up stories"\\
+%\quote{Last updated August 2025}
 %Amos Tversky
 %}
 
@@ -61,23 +63,14 @@
 \begin{document}
 \makecvtitle
 
-%\section{Nationality}
-%\cventry{}{Mexican}{}{}{}{Born in Mexico City}
-
 \input{education}
+
+\section{Research Interests}
+Experimental and Behavioral Economics, Misinformation, Risk
 
 \input{publications}
 
 \input{presentations.tex}
-
-\section{Memberships and Professional Organizations}
-
-\cventry{2021-2024}
-{Member of the Economic Science Association}
-{\url{https://www.economicscience.org/}}
-{}
-{}{}
-
 
 \input{grants_honors}
 
@@ -85,9 +78,23 @@
 
 \input{work}
 
+\section{Memberships and Professional Organizations}
+
+\cvitem{2021-2025}
+{\href{https://www.economicscience.org/}{Economic Science Association}}
+{}
+{}
+{}{}
+
+\cvitem{2025}
+{\href{https://www.aaea.org/}{Agricultural \& Applied Economics Association}}
+{}
+{}
+{}{}
+
 \input{service}
 
-\input{teaching_long}
+\input{teaching}
 
 %\newpage
 %\section{Formación Extra Académica}
