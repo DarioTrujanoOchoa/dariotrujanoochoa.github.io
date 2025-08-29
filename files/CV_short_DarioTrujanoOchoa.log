@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 AUG 2025 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 AUG 2025 23:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,9 +616,9 @@ Underfull \hbox (badness 10000) detected at line 14
 \T1/qpl/m/n/8 .
  []
 
-) (./languages.tex)
+) (./languages.tex) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [3]
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./CV_short_DarioTrujanoOchoa.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
@@ -628,9 +628,9 @@ ged.
 (rerunfilecheck)             Checksum: 20873369F546F0AE9C8FAA29DB416173;1589.
  ) 
 Here is how much of TeX's memory you used:
- 14020 strings out of 480608
- 213487 string characters out of 5903631
- 505385 words of memory out of 5000000
+ 14021 strings out of 480608
+ 213493 string characters out of 5903631
+ 505398 words of memory out of 5000000
  29643 multiletter control sequences out of 15000+600000
  576877 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -642,10 +642,10 @@ live/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local
 ocal/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive
 /2020/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on CV_short_DarioTrujanoOchoa.pdf (3 pages, 225927 bytes).
+Output written on CV_short_DarioTrujanoOchoa.pdf (4 pages, 226678 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  17513 words of extra memory for PDF output out of 20736 (max. 10000000)
 
