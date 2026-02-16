@@ -1,10 +1,12 @@
 ---
-title: "The Effect of Feedback on News-Verification Demand: Experimental Evidence (JMP)" 
-excerpt: "Effects of feedback on the willingness to pay to verify real headlines."
+title: "Willingness to Verify News Headlines: Experimental Evidence from Mexico" 
+excerpt: "Willingness to Verify News Headlines: Experimental Evidence from Mexico"
 collection: portfolio
 ---
 
-This study is the first to elicit the value individuals place on verifying real headlines, focusing on the role of feedback in shaping verification behavior and confidence. In a lab experiment, 184 participants classified headlines as accurate or fake, reporting their willingness to pay (WTP) for a perfect signal under three feedback conditions: control, individual, and group. Results show that explicit feedback on others’ accuracy reduces the perceived value of verification, potentially discouraging fact-checking. The findings highlight how feedback influences verification demand. By addressing gaps in the existing literature and focusing on Mexico, this study provides novel insights into the design of interventions to combat misinformation.
+This study explores the determinants of individuals’ demand for verification. We measure this demand in a laboratory setting by eliciting participants’ willingness to pay (WTP) to verify whether a headline is accurate or contains misinformation. 
+The experimental design holds constant the payoffs from correct classification, the accuracy of the verification signal, and the baseline probability of misinformation. By abstracting from these elements—which jointly determine the value of verification in the field—we isolate the effects of feedback, political content, and participants’ political positions on verification behavior. 
+We analyze how both WTP and confidence respond to feedback and to the political content of headlines, and we compare observed verification demand to a theoretical benchmark in which verification is purely accuracy-motivated.
 
 <a href="https://dariotrujanoochoa.github.io/files/feedback_misinfo.pdf">Download File</a>
 
