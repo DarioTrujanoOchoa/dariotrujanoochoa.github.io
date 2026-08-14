@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  13 AUG 2026 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  13 AUG 2026 22:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**CV_DarioTrujanoOchoa.tex
-(./CV_DarioTrujanoOchoa.tex
+**CV_DarioTrujanoOchoa_esp.tex
+(./CV_DarioTrujanoOchoa_esp.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -731,8 +731,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 63.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 63.
- (./CV_DarioTrujanoOchoa.aux)
-\openout1 = `CV_DarioTrujanoOchoa.aux'.
+ (./CV_DarioTrujanoOchoa_esp.aux)
+\openout1 = `CV_DarioTrujanoOchoa_esp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
@@ -832,9 +832,9 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 63.
-(./CV_DarioTrujanoOchoa.out) (./CV_DarioTrujanoOchoa.out)
+(./CV_DarioTrujanoOchoa_esp.out) (./CV_DarioTrujanoOchoa_esp.out)
 \@outlinefile=\write4
-\openout4 = `CV_DarioTrujanoOchoa.out'.
+\openout4 = `CV_DarioTrujanoOchoa_esp.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
 nput line 64.
@@ -885,17 +885,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
 
  []
 
-(./education.tex) (./work.tex
+(./education_spanish.tex) (./work_spanish.tex
 
 LaTeX Font Warning: Font shape `OT1/qpl/sb/n' undefined
-(Font)              using `OT1/qpl/b/n' instead on input line 27.
+(Font)              using `OT1/qpl/b/n' instead on input line 26.
 
 
-Underfull \hbox (badness 10000) detected at line 27
+Underfull \hbox (badness 10000) detected at line 26
 \OT1/qpl/m/n/8 .
  []
 
-) (./teaching.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -909,7 +908,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texliv
 e/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive
-/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}])
+(./teaching_spanish.tex
 
 LaTeX Font Warning: Font shape `OT1/qpl/sb/n' undefined
 (Font)              using `OT1/qpl/b/n' instead on input line 3.
@@ -928,7 +928,7 @@ Underfull \hbox (badness 10000) detected at line 14
 \OT1/qpl/m/n/8 .
  []
 
-) (./publications.tex) (./presentations.tex
+) (./publications_spanish.tex) (./presentations_spanish.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -938,11 +938,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [2]
-Overfull \hbox (2.30049pt too wide) in alignment at lines 95--95
+Overfull \hbox (2.30049pt too wide) in alignment at lines 91--91
 [] [] 
  []
 
-) (./working_papers.tex) (./grants_honors.tex
+) (./working_papers_spanish.tex) (./grants_honors_spanish.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -951,7 +951,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]) (./service.tex) (./languages.tex)
+[3]) (./service_spanish.tex) (./languages_spanish.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -960,31 +960,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4] (./CV_DarioTrujanoOchoa.aux)
+[4] (./CV_DarioTrujanoOchoa_esp.aux)
 
-Package rerunfilecheck Warning: File `CV_DarioTrujanoOchoa.out' has changed.
+Package rerunfilecheck Warning: File `CV_DarioTrujanoOchoa_esp.out' has changed
+.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `CV_DarioTrujanoOchoa.out':
-(rerunfilecheck)             Before: A1FA2DEA7AE9AC2A396ED4FF339C7B74;1627
-(rerunfilecheck)             After:  D34EEBD323D952FEE53278918792D95D;1627.
+Package rerunfilecheck Info: Checksums for `CV_DarioTrujanoOchoa_esp.out':
+(rerunfilecheck)             Before: E572C5195525CBE40ECF6AAC01EC0CC3;1821
+(rerunfilecheck)             After:  71CBBAC3A2F02EB5ADBE0F025316598B;1821.
  ) 
 Here is how much of TeX's memory you used:
- 26198 strings out of 476025
- 506861 string characters out of 5790016
- 1878388 words of memory out of 5000000
- 46117 multiletter control sequences out of 15000+600000
+ 26200 strings out of 476025
+ 507388 string characters out of 5790016
+ 1880388 words of memory out of 5000000
+ 46119 multiletter control sequences out of 15000+600000
  558040 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,122p,1017b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,122p,1021b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Free-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/font
 awesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
 ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on CV_DarioTrujanoOchoa.pdf (4 pages, 257780 bytes).
+Output written on CV_DarioTrujanoOchoa_esp.pdf (4 pages, 257046 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
