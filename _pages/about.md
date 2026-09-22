@@ -8,28 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Texas A & M University](https://agrilifepeople.tamu.edu/people/view/38860). 
-I obtained my [PhD in Economics at the University of California, Santa Barbara](https://econ.ucsb.edu/people/students/dario-trujano-ochoa), where I developed research in Experimental and Behavioral Economics. 
-My research focuses on how individuals process information, form beliefs, and make decisions under uncertainty, with a particular emphasis on misinformation and risk preferences. 
-I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
+I received my [PhD in Economics from the University of California, Santa Barbara](https://econ.ucsb.edu/people/students/dario-trujano-ochoa) in 2025 and am currently completing a two-year postdoctoral position in Agricultural Economics at [Texas A & M University](https://agrilifepeople.tamu.edu/people/view/38860) AgriLife Research, where I work with Dr. Marco Palma and faculty affiliated with the Plants, Nature and Health Initiative.
 
-I’m excited to continue my work in economic research, with a focus on information economics and decision theory.
-<!--- My [Job Market Paper](https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/) explored the effect of feedback on the demand for verification in the context of misinformation. The results aim to inform the design of more effective interventions to combat misinformation. -->
+My research uses incentivized laboratory and field experiments to study how people acquire and use information under uncertainty. In my job market paper, "Belief Heterogeneity and Information Acquisition When Others Make the Decision," I test whether the value of information depends on who ultimately acts on it. Using a laboratory experiment with 198 participants, I show that when decision-makers hold heterogeneous prior beliefs, they anticipate that others will interpret signals differently, which reduces their willingness to pay for information when someone else controls the final decision, even though standard Bayesian theory predicts this separation should be irrelevant.
 
-I am currently working at the Human Behavior Lab at Texas A&M University, where I collaborate on the Plants, Nature, and Health Initiative. I also started new projects I am very excited about.  
-
-Where am I from?
-======
-
-I was born and raised in the beautiful yet chaotic city of Mexico City. There, I studied Psychology and Applied Statistics at UNAM. 
-I became interested in experimental methods and behavior models. Then, I completed my Master's in Economics at CIDE, where I was exposed to rigorous mathematical analysis. 
-After graduation, I worked at [IFT](https://www.ift.org.mx/) and [ASBA](https://asbasupervision.org/), and began my PhD at UCSB in 2019, from which I graduated in 2025. 
+At Texas A&M, I have extended my experimental toolkit to include galvanic skin response (GSR) and eye tracking, tools I currently apply in an ongoing collaboration studying the effects of nature exposure on decision-making. I am also completing two additional papers: one from a natural field experiment on the determinants of healthy food choices, and another analyzing the effects of cognitive load and incentive schemes on performance in a real-effort task. My broader research agenda combines behavioral and experimental economics with applications in agricultural and health economics, using physiological measures alongside incentivized decision tasks to understand belief formation and choice under uncertainty.
 
 
 Where am I going next?
 ======
 
-I will continue to publish ongoing projects and initiate new ones. I expect to be back in the job market by 2026.
+I will continue to publish ongoing projects and initiate new ones. I am in the job market in 2026.
 
 
 
