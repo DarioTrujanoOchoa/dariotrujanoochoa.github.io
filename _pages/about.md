@@ -29,7 +29,7 @@ After graduation, I worked at [IFT](https://www.ift.org.mx/) and [ASBA](https://
 Where am I going next?
 ======
 
-I will continue to publish ongoing projects and initiate new ones. I expect to be back in the job market by 2027.
+I will continue to publish ongoing projects and initiate new ones. I expect to be back in the job market by 2026.
 
 
 
