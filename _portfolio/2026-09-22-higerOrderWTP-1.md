@@ -12,5 +12,6 @@ Three main results emerge. First, participants expect others to update beliefs s
 
 These findings suggest that belief heterogeneity, not just misaligned incentives, can reduce the perceived value of delegating decisions — with implications for organizational information acquisition and delegation design.
 
+**JEL Codes:** D83, D91, C91
 
 <embed src="https://dariotrujanoochoa.github.io/files/Trujano-Ochoa_HigherOrderWTP.pdf" type="application/pdf" width="100%" />
