@@ -10,7 +10,7 @@ author_profile: true
 ## Job Market Paper
 
  <ul>
- 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">The Effect of Feedback on News-Verification Demand: Experimental Evidence</a></li>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2026-09-22-higerOrderWTP-1/">Belief Heterogeneity and Information Acquisition When Others Make the Decision</a></li>
   </ul>
 
 
