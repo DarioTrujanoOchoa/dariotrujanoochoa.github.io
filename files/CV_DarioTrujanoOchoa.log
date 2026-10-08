@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 OCT 2026 18:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 OCT 2026 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,7 +906,7 @@ Overfull \hbox (4.22803pt too wide) in alignment at lines 32--32
 [] [] 
  []
 
-) (./publications.tex
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -920,8 +920,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texliv
 e/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive
-/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]) (./working_papers.tex) (
-./teaching.tex
+/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]) (./publications.tex)
+(./working_papers.tex) (./teaching.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -964,7 +964,7 @@ Overfull \hbox (2.30049pt too wide) in alignment at lines 88--88
 [] [] 
  []
 
-) (./grants_honors.tex
+)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -973,7 +973,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]) (./service.tex) (./languages.tex)
+[3] (./grants_honors.tex) (./service.tex) (./languages.tex)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -988,26 +988,26 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `CV_DarioTrujanoOchoa.out' has not changed.
-(rerunfilecheck)             Checksum: AD050992414D3C150AE3D8C6735CC538;1846.
+(rerunfilecheck)             Checksum: B27C12C744136C63E42E585A74BEFF21;1969.
  ) 
 Here is how much of TeX's memory you used:
- 26611 strings out of 473190
- 510146 string characters out of 5715801
- 919712 words of memory out of 5000000
- 49336 multiletter control sequences out of 15000+600000
+ 26613 strings out of 473190
+ 510170 string characters out of 5715801
+ 918712 words of memory out of 5000000
+ 49337 multiletter control sequences out of 15000+600000
  605301 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,129p,1017b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,129p,1017b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/font
 awesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplr.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on CV_DarioTrujanoOchoa.pdf (4 pages, 258491 bytes).
+Output written on CV_DarioTrujanoOchoa.pdf (4 pages, 260584 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
- 27773 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 27781 words of extra memory for PDF output out of 29859 (max. 10000000)
 
