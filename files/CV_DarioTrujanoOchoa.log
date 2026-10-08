@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  7 OCT 2026 11:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 OCT 2026 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,7 +920,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texliv
 e/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive
-/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]) (./teaching.tex
+/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]) (./working_papers.tex) (
+./teaching.tex
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
 (Font)              using `T1/qpl/b/n' instead on input line 3.
@@ -932,23 +933,14 @@ Underfull \hbox (badness 10000) detected at line 3
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 24.
+(Font)              using `T1/qpl/b/n' instead on input line 16.
 
 
-Underfull \hbox (badness 10000) detected at line 24
+Underfull \hbox (badness 10000) detected at line 16
 \T1/qpl/m/n/8 .
  []
 
 
-LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 34.
-
-
-Underfull \hbox (badness 10000) detected at line 34
-\T1/qpl/m/n/8 .
- []
-
-) (./presentations.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -958,11 +950,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [2]
-Overfull \hbox (2.30049pt too wide) in alignment at lines 80--80
+
+LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
+(Font)              using `T1/qpl/b/n' instead on input line 26.
+
+
+Underfull \hbox (badness 10000) detected at line 26
+\T1/qpl/m/n/8 .
+ []
+
+) (./presentations.tex
+Overfull \hbox (2.30049pt too wide) in alignment at lines 88--88
 [] [] 
  []
 
-) (./working_papers.tex) (./grants_honors.tex
+) (./grants_honors.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -986,7 +988,7 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `CV_DarioTrujanoOchoa.out' has not changed.
-(rerunfilecheck)             Checksum: A2518DF7C785ACFB441BE0FF495EDE99;1846.
+(rerunfilecheck)             Checksum: AD050992414D3C150AE3D8C6735CC538;1846.
  ) 
 Here is how much of TeX's memory you used:
  26611 strings out of 473190
@@ -1002,7 +1004,7 @@ awesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplr.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on CV_DarioTrujanoOchoa.pdf (4 pages, 258595 bytes).
+Output written on CV_DarioTrujanoOchoa.pdf (4 pages, 258491 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
