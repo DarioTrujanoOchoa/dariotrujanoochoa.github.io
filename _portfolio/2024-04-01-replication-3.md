@@ -8,4 +8,4 @@ This study replicates and extends the analysis of belief elicitation methods con
 
 
 
-<embed src="https://dariotrujanoochoa.github.io/files/Replication_Project.pdf" type="application/pdf" width="100%" />
+<embed src="https://www.econstor.eu/bitstream/10419/324166/1/I4R-DP255.pdf" type="application/pdf" width="100%" />
