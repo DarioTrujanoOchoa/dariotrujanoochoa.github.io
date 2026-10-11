@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  11 OCT 2026 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.18)  11 OCT 2026 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -987,12 +987,7 @@ Overfull \hbox (2.30049pt too wide) in alignment at lines 90--90
 [] [] 
  []
 
-) (./grants_honors.tex
-Overfull \hbox (129.03601pt too wide) in alignment at lines 3--3
-[] [] 
- []
-
-) (./service.tex
+) (./grants_honors.tex) (./service.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1028,7 +1023,7 @@ awesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
 ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on CV_DarioTrujanoOchoa.pdf (5 pages, 267995 bytes).
+Output written on CV_DarioTrujanoOchoa.pdf (5 pages, 267933 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams
