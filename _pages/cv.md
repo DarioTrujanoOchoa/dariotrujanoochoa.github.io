@@ -14,19 +14,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in Economics, UCSB, 2025
+* Ph.D. in Economics, UCSB, 2025
 * M.S. in Economics, CIDE, 2017
 * B.S. in Psychology, UNAM, 2013
 
 Skills
 ======
-* English: Fluent
-* Spanish: Native
-* Skateboarding for commuting
-* Cumbia Dancing
 * R Programming: tidyverse and ggplot2
 * Software to implement experiments:
   * Otree
   * Qualtrics
   * Prolific
+* English: Fluent
+* Spanish: Native
+* Skateboarding for commuting
+* Cumbia Dancing
+
 
