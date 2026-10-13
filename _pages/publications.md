@@ -13,7 +13,6 @@ author_profile: true
  	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2026-09-22-higerOrderWTP-1/">Differing Priors and Information Acquisition When Others Make the Decision</a></li>
   </ul>
 
-[**Download CV (PDF)**](https://dariotrujanoochoa.github.io/files/CV_DarioTrujanoOchoa.pdf)
 
 ## Published Papers
 

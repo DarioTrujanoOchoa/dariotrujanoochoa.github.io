@@ -8,4 +8,6 @@ Should you pay more for information when someone else will act on it instead of 
 
 **JEL Codes:** D83, D91, C91
 
+[**Download CV (PDF)**](https://dariotrujanoochoa.github.io/files/CV_DarioTrujanoOchoa.pdf)
+
 <embed src="https://dariotrujanoochoa.github.io/files/Trujano-Ochoa_HigherOrderWTP.pdf" type="application/pdf" width="100%" />
