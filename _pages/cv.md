@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download CV (PDF)**](https://dariotrujanoochoa.github.io/files/CV_DarioTrujanoOchoa.pdf)
 
 <embed src="https://dariotrujanoochoa.github.io/files/CV_DarioTrujanoOchoa.pdf" type="application/pdf" width="100%" />
 
@@ -29,5 +30,3 @@ Skills
 * Spanish: Native
 * Skateboarding for commuting
 * Cumbia Dancing
-
-

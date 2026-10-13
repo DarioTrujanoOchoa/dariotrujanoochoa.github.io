@@ -1,5 +1,5 @@
 ---
-title: "Belief Heterogeneity and Information Acquisition When Others Make the Decision"
+title: "Differing Priors and Information Acquisition When Others Make the Decision"
 excerpt: "Non-Bayesian agents and their willingness to pay for information when other agents use the information."
 collection: portfolio
 ---

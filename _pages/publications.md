@@ -10,25 +10,10 @@ author_profile: true
 ## Job Market Paper
 
  <ul>
- 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2026-09-22-higerOrderWTP-1/">Belief Heterogeneity and Information Acquisition When Others Make the Decision</a></li>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2026-09-22-higerOrderWTP-1/">Differing Priors and Information Acquisition When Others Make the Decision</a></li>
   </ul>
 
-
-## Working Papers
-
- <ul>
- 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">Willingness to Verify News Headlines: Experimental Evidence from Mexico</a></li>
- 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-replication-3/">Replication Report of“Belief Elicitation and Behavioral Incentive Compatibility” by Danz, Vesterlund, and Wilson (2022)
-</a></li>
-  </ul>
-
-<!-- 
-  <ul>
-    {% for post in site.portfolio reversed %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
-  </ul>
--->
+[**Download CV (PDF)**](https://dariotrujanoochoa.github.io/files/CV_DarioTrujanoOchoa.pdf)
 
 ## Published Papers
 
@@ -46,5 +31,21 @@ author_profile: true
  	<li>Big little lies. (with <a href="https://www.pablosotomota.com/">Pablo Soto-Mota</a>)</li>
  	<li>Overconfidence and Fact-Cheking in the Philippines. (with <a href="https://sites.google.com/view/jose-gloria">Jose Gloria</a>)</li>
  </ul>
+ 
+ ## Working Papers
+
+ <ul>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-10-30-feedbackMisinfo-2/">Willingness to Verify News Headlines: Experimental Evidence from Mexico</a></li>
+ 	<li> <a href="https://dariotrujanoochoa.github.io/portfolio/2024-04-01-replication-3/">Replication Report of“Belief Elicitation and Behavioral Incentive Compatibility” by Danz, Vesterlund, and Wilson (2022)
+</a></li>
+  </ul>
+
+<!-- 
+  <ul>
+    {% for post in site.portfolio reversed %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
+-->
  
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=T-xX3w0AAAAJ&hl=en) profile.
