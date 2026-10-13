@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  12 OCT 2026 20:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  12 OCT 2026 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1040,7 +1040,7 @@ Package rerunfilecheck Info: File `CV_DarioTrujanoOchoa.out' has not changed.
 Here is how much of TeX's memory you used:
  26669 strings out of 473190
  510899 string characters out of 5715801
- 916786 words of memory out of 5000000
+ 916713 words of memory out of 5000000
  49360 multiletter control sequences out of 15000+600000
  607052 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1051,7 +1051,7 @@ awesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/tex-gyre/qplb.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplr.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on CV_DarioTrujanoOchoa.pdf (5 pages, 279169 bytes).
+Output written on CV_DarioTrujanoOchoa.pdf (5 pages, 279146 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  161 compressed objects within 2 object streams
